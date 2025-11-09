@@ -1,0 +1,16 @@
+assessment_name,url,description,test_type,domain,job_level
+Java Programming Skills Test,https://www.shl.com/solutions/products/product-catalog/java-test/,"Comprehensive Java programming assessment covering OOP, data structures, algorithms, Spring, Hibernate, multithreading, exception handling",K,Technical,all
+Python Programming Test,https://www.shl.com/products/product-catalog/python-test/,"Python coding assessment including data structures, pandas, numpy, algorithms, OOP, list comprehensions",K,Technical,all
+JavaScript Web Development Test,https://www.shl.com/solutions/products/product-catalog/javascript-test/,"JavaScript, ES6+, React, Node.js, async programming, DOM manipulation, modern web development",K,Technical,all
+SQL Database Skills Assessment,https://www.shl.com/solutions/products/product-catalog/sql-test/,"SQL query writing, database design, joins, optimization, indexing, relational database concepts",K,Technical,all
+Teamwork and Collaboration Assessment,https://www.shl.com/solutions/products/product-catalog/teamwork/,"Collaboration skills, cross-functional teamwork, stakeholder management, interpersonal effectiveness",P,General,all
+Communication Skills Assessment,https://www.shl.com/solutions/products/product-catalog/communication/,"Written and verbal communication, presentation skills, business communication effectiveness",P,General,all
+OPQ Personality Assessment,https://www.shl.com/solutions/products/product-catalog/opq/,"Comprehensive personality assessment measuring workplace behavior, preferences, and competencies",P,General,all
+Numerical Reasoning Test,https://www.shl.com/solutions/products/product-catalog/verify-numerical/,"Numerical reasoning and data interpretation skills essential for analytical roles",C,General,all
+Verbal Reasoning Test,https://www.shl.com/solutions/products/product-catalog/verify-verbal/,"Verbal reasoning and comprehension abilities for effective communication and understanding",C,General,all
+Critical Thinking Assessment,https://www.shl.com/solutions/products/product-catalog/critical-thinking/,"Analytical and critical reasoning abilities for complex problem-solving and decision making",C,General,all
+Data Analysis Skills Test,https://www.shl.com/solutions/products/product-catalog/data-analysis/,"Data interpretation, statistical thinking, analytical skills specifically for data analyst roles",C,Analytics,all
+Leadership Assessment,https://www.shl.com/solutions/products/product-catalog/leadership/,"Leadership competencies, strategic thinking, people management, organizational influence",P,Leadership,senior
+Sales Aptitude Test,https://www.shl.com/solutions/products/product-catalog/sales-aptitude/,"Sales potential, customer-facing skills, negotiation abilities, relationship building",P,Sales,"entry,mid"
+Problem Solving Skills Test,https://www.shl.com/solutions/products/product-catalog/problem-solving/,"Complex problem-solving, logical thinking, solution design, analytical approach",C,General,all
+Full Stack Developer Assessment,https://www.shl.com/solutions/products/product-catalog/fullstack-test/,"Comprehensive full-stack assessment: frontend (HTML, CSS, JavaScript, React), backend (Node.js, APIs, databases)"  ,K,Technical,"mid,senior"
